@@ -7,5 +7,7 @@ public class Main {
         System.out.println("Witajcie w pokoju 1");
         System.out.println("To jest projekt Agnieszki.");
         System.out.println("Linia 3");
+        System.out.println("Zmiany Adriansdfsdf");
+        System.out.println("Zmiany Adriansdfsdf");
     }
 }
