@@ -9,5 +9,14 @@ public class Main {
         System.out.println("Linia 3");
         System.out.println("Zmiany Adriansdfsdf");
         System.out.println("Zmiany Adriansdfsdf");
+        System.out.println("Zmiany Proba Milion ");
+        System.out.println("Zmiany Proba Milion ");
+        System.out.println("Zmiany Proba Milion ");
+        System.out.println("Zmiany Proba Milion ");
+        System.out.println("Zmiany Proba Milion ");
+        System.out.println("Zmiany Proba Milion ");
+        System.out.println("Zmiany Proba Milion ");
+        System.out.println("Zmiany Proba Milion ");
+        System.out.println("Zmiany Proba Milion ");
     }
 }
