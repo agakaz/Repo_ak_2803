@@ -15,7 +15,7 @@ public class Main {
         System.out.println("Zmiany Proba Milion ");
         System.out.println("Zmiany Proba Milion ");
         System.out.println("Zmiany Proba Milion ");
-        System.out.println("Zmiany Proba Milion ");
+        System.out.println("KONFLIKT będzie czy nie? ");
         System.out.println("Zmiany Proba Milion ");
         System.out.println("Zmiany Proba Milion ");
     }
